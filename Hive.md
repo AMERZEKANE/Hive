@@ -10,7 +10,7 @@
 ### 7) Adding a Partition
 ### 8) Renaming a Partition
 ### 9) Dropping a Partition
-### 10)https://www.tutorialspoint.com/hive/hive_built_in_operators.htm
-### 11)Creating a View
-### 12)Dropping a View
-### 13)Creating an Index
+### 10) https://www.tutorialspoint.com/hive/hive_built_in_operators.htm
+### 11) Creating a View
+### 12) Dropping a View
+### 13) Creating an Index
