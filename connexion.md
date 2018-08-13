@@ -1,5 +1,6 @@
 # Hive
-"""
+""" 
+
 Ce script gere le preprocessing des donnees brutes
 
 Les donnees brutes sont chargees, les lignes de transaction sont filtrees et regroupees
@@ -37,7 +38,8 @@ class HiveInterface:
       ####################
       # Parametres de connexion a Hive
       ####################
-      # Serveur
+      
+      ## Serveur
       HIVE_HOST = 'acfsv817bed179p.bigdata4sg.saint-gobain.net'  
       # Port
       HIVE_PORT = 10000
