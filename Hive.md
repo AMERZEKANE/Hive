@@ -1,13 +1,13 @@
 # les commande de base Hive
 
-### affiche les bases de données:
+### 1) affiche les bases de données:
       SHOW DATABASES;
-### Create Database Statement
-### Drop Database Statement
-### Create Table Statement
-### Alter Table Statement
-### Drop Table Statement
-### Adding a Partition
-### Renaming a Partition
-### Dropping a Partition
-### https://www.tutorialspoint.com/hive/hive_built_in_operators.htm
+### 2) Create Database Statement
+### 3) Drop Database Statement
+### 4) Create Table Statement
+### 5) Alter Table Statement
+### 6) Drop Table Statement
+### 7) Adding a Partition
+### 8) Renaming a Partition
+### 9) Dropping a Partition
+### 10)https://www.tutorialspoint.com/hive/hive_built_in_operators.htm
