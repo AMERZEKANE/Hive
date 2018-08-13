@@ -1,5 +1,5 @@
 # les commande de base Hive
 
-* affiche les bases de données:
+### affiche les bases de données:
       SHOW DATABASES;
-* Create Database Statement
+### Create Database Statement
