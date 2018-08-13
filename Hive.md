@@ -1,1 +1,1 @@
-# Hive
+# les commande de base Hive
