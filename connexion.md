@@ -1,5 +1,6 @@
 # Hive
 """ 
+https://pandas.pydata.org/pandas-docs/stable/io.html
 
 Ce script gere le preprocessing des donnees brutes
 
