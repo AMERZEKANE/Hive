@@ -3,7 +3,9 @@
 ### 1) affiche les bases de données:
       SHOW DATABASES;
 ### 2) Create Database Statement
+* CREATE DATABASE userdb;
 ### 3) Drop Database Statement
+* DROP DATABASE IF EXISTS userdb_test;
 ### 4) Create Table Statement
 ### 5) Alter Table Statement
 ### 6) Drop Table Statement
